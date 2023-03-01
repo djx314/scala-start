@@ -7,7 +7,7 @@ Usage
 1. Run `sbt.bat` in Windows CMD or WSL.
 1. Run `run` task in SBT shell.
 
-If you are using `PowerShell`, this can be:
+If you are using `PowerShell`, you should enter CMD first. This can be:
 ``` shell
 cmd
 sbt
